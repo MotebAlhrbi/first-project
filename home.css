@@ -1,0 +1,105 @@
+header {
+
+border-style: solid;
+border-radius: 20x;
+background-color: black;
+
+
+}
+
+
+body {
+
+
+    background-color: cornsilk;
+}
+
+#name {
+
+
+color: cornsilk;
+}
+
+#navul {
+    display:inline-flex;
+    
+}
+
+.nav-item {
+
+    padding: 17px;
+    
+}
+
+a {
+    color: cornsilk;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color :blueviolet;
+}
+
+
+.myimg {
+
+    width: 200x;
+    height: 200px;
+    position:static;
+    top: 50px;
+
+}
+
+#cont {
+
+    position:relative;
+    top: 100px;
+    left: 100px;
+
+
+}
+
+#continer {
+
+width: 500px;
+height:500px;
+border-style: solid;
+border-radius: 10px;
+box-sizing: border-box;
+border-color: rgb(7, 7, 7);
+float:right ;
+
+}
+
+#new {
+
+    width: 390px;
+    height:390px;
+    border-style: solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border-color: rgb(7, 7, 7);
+    float:left ;
+    
+    }
+    
+#coom {
+
+color: rgb(2, 8, 7);
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#im {
+
+    width: 150px;
+    height: 150px;
+    border: 0px;
+    border-style: solid;
+    border-radius: 14px;
+    border-color: blanchedalmond;
+    float: right;
+}
